@@ -1,0 +1,28 @@
+Key,Issue Type,Parent,Summary,Status,Assignee,Sprint,Start date,Inferred start date,Due date,Inferred due date,Issue color
+SCRUM-1,Epic,,Admin Features,To Do,Aizaz Ahmed,,19/05/2025,19/05/2025,20/05/2025,20/05/2025,purple
+SCRUM-2,Story,SCRUM-1,Add/Remove Courses,Done,Aizaz Ahmed,,,,20/05/2025,,purple
+SCRUM-3,Story,SCRUM-1,"View Time Table (Section Wise, Day Wise, Room Wise, Teacher Wise)",Done,Aizaz Ahmed,,,,20/05/2025,,purple
+SCRUM-4,Story,SCRUM-1, Add/Remove Students,Done,Aizaz Ahmed,,,,20/05/2025,,purple
+SCRUM-5,Story,SCRUM-1,Add/Remove Rooms,Done,Aizaz Ahmed,,,,20/05/2025,,purple
+SCRUM-18,Story,SCRUM-1,Add Departments,Done,Muhammad Abdullah Sarwar,,,,21/05/2025,,purple
+SCRUM-19,Story,SCRUM-1,Search Student Availability,Done,Muhammad Abdullah Sarwar,,,,21/05/2025,,purple
+SCRUM-20,Story,SCRUM-1,Generate and Track Challans,Done,Muhammad Abdullah Sarwar,,,,21/05/2025,,purple
+SCRUM-6,Epic,,Student Features,To Do,Aizaz Ahmed,,21/05/2025,21/05/2025,22/05/2025,22/05/2025,purple
+SCRUM-7,Story,SCRUM-6,Check Time Table,Done,Aizaz Ahmed,,,,22/05/2025,,purple
+SCRUM-8,Story,SCRUM-6, View Announcements,Done,Aizaz Ahmed,,,,22/05/2025,,purple
+SCRUM-9,Story,SCRUM-6,Register Courses,Done,Aizaz Ahmed,,,,22/05/2025,,purple
+SCRUM-10,Story,SCRUM-6,Check Scores,Done,Aizaz Ahmed,,,,22/05/2025,,purple
+SCRUM-21,Story,SCRUM-6,View Attendance,In Progress,Muhammad Abdullah Sarwar,,,,23/05/2025,,purple
+SCRUM-22,Story,SCRUM-6,Submit/View Assignments,In Progress,Muhammad Abdullah Sarwar,,,,23/05/2025,,purple
+SCRUM-23,Story,SCRUM-6,View Challans,In Progress,Muhammad Abdullah Sarwar,,,,23/05/2025,,purple
+SCRUM-11,Epic,,Teacher Features,To Do,Aizaz Ahmed,,23/05/2025,23/05/2025,24/05/2025,24/05/2025,purple
+SCRUM-12,Story,SCRUM-11,Mark Attendance,Done,,,,,24/05/2025,,purple
+SCRUM-13,Story,SCRUM-11,View Time Table,Done,Aizaz Ahmed,,,,24/05/2025,,purple
+SCRUM-14,Story,SCRUM-11,Make Announcements,Done,Aizaz Ahmed,,,,24/05/2025,,purple
+SCRUM-24,Story,SCRUM-11,Enter Student Marks,In Progress,Muhammad Abdullah Sarwar,,,,25/05/2025,,purple
+SCRUM-25,Story,SCRUM-11,View Student Profile,In Progress,Muhammad Abdullah Sarwar,,,,25/05/2025,,purple
+SCRUM-26,Story,SCRUM-11,Upload Assignments,Done,Muhammad Abdullah Sarwar,,,,,,purple
+SCRUM-27,Story,SCRUM-11,View Submissions,In Progress,Muhammad Abdullah Sarwar,,,,25/05/2025,,purple
+SCRUM-15,Epic,,Spark AI Integration,To Do,Aizaz Ahmed,,25/05/2025,25/05/2025,26/05/2025,26/05/2025,purple
+SCRUM-16,Story,SCRUM-15,Login/Signup for Spark AI,Done,Aizaz Ahmed,,,,26/05/2025,,purple
+SCRUM-17,Story,SCRUM-15,Access Help from Spark AI,Done,Aizaz Ahmed,,,,26/05/2025,,purple
